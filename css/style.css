@@ -6,9 +6,9 @@ body {
 .Main-Contanier{
     display:flex;
     flex-direction: row-reverse;
-    width: 1200px;
+    width: 980px;
     background:white;
-    margin: 40px 40px 40px 40px;
+    margin: auto;
     background: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
